@@ -1,0 +1,21 @@
+{
+  "DNAseq.SentieonFastqToVcf.DISK": "String (optional, default = \"800 GB\")",
+  "DNAseq.SentieonFastqToVcf.MEMORY": "String (optional, default = \"64 GB\")",
+  "DNAseq.SentieonFastqToVcf.NUM_THREAD": "Int (optional, default = 25)",
+  "DNAseq.SentieonFastqToVcf.call_conf": "Int (optional, default = 30)",
+  "DNAseq.SentieonFastqToVcf.genotype_model": "String (optional, default = \"Optional parameters: coalescent, multinomial. default multinomial\")",
+  "DNAseq.bqsr_vcf_indexes": "Array[File]",
+  "DNAseq.bqsr_vcfs": "Array[File]",
+  "DNAseq.dbsnp_index": "File",
+  "DNAseq.dbsnp_vcf": "File",
+  "DNAseq.fastq1": "File",
+  "DNAseq.fastq2": "File",
+  "DNAseq.gotc_docker":  "String",
+  "DNAseq.read_group_info": "String",
+  "DNAseq.ref_fasta": "File",
+  "DNAseq.interval": "File",
+  "DNAseq.model": "File",
+  "DNAseq.ref_fasta_indexes": "Array[File]",
+  "DNAseq.sample_name": "String",
+  "DNAseq.sentieon_license_server": "String"
+}
