@@ -1,0 +1,3 @@
+﻿wes-germline_id,Sample_name,fastq1,fastq2,recaled_bam,recaled_bam_index,vqsr_table,vcf,vcf_index
+sample01,18C054744,s3://bioos-wcho4i5teig4bn7vhta0g/rawdata/WES-germline-rawdata/18C054744_WES001_CapNGS_R1.fq.gz,s3://bioos-wcho4i5teig4bn7vhta0g/rawdata/WES-germline-rawdata/18C054744_WES001_CapNGS_R2.fq.gz,sample01.recaled_bam,sample01.recaled_bam_index,sample01.vqsr_table,sample01.vcf,sample01.vcf_index
+sample02,18C055106,s3://bioos-wcho4i5teig4bn7vhta0g/rawdata/WES-germline-rawdata/18C055106_R1.fq.gz,s3://bioos-wcho4i5teig4bn7vhta0g/rawdata/WES-germline-rawdata/18C055106_R2.fq.gz,sample02.recaled_bam,sample02.recaled_bam_index,sample02.vqsr_table,sample02.vcf,sample02.vcf_index
