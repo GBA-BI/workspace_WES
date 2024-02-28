@@ -6,7 +6,8 @@ WES workspace包含1个工作流，是进行外显子重测序分析的生物信
 
 本流程基于Sentieon加速软件搭建。Sentieon是一款软件套件，提供了与GATK兼容的工具，旨在提高基因组数据分析的速度和效率。Sentieon的工具可以用于替代GATK的某些步骤，而无需改变GATK的工作流程。它的主要优势是计算速度更快，同时保持与GATK相同的分析结果质量。
 
-![image.png](attachment:f9c3590f-f803-408c-a37a-18f99eccfb1a.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/72fa0501-cb09-48e7-b056-68fea37ad575)
+
 
 
 <br>
