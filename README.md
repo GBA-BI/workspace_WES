@@ -36,21 +36,25 @@ WES workspace包含1个工作流，是进行外显子重测序分析的生物信
 
 工作流分析流程图如下所示：
 
-![image.png](attachment:f44cd6fe-463f-4a4d-b7a0-8dd68ca755b2.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/3f899495-3e60-44c5-ac61-999d72b25b4a)
+
 
 # 使用指南
 
 下边将使用测试数据进行使用说明：
 
 1、在“工作流”中找到WES流程，并点击
-![image.png](attachment:766ea47c-b461-4b6e-9fb1-42536d1509ef.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/7f044aba-a9d5-4bec-8aaa-e279fe53629e)
+
 
 2、选择需要分析的数据实体，如果需要使用自己的数据，则需要上传数据以及制作数据实体模型并上传到本Workspaces，具体操作可以参考最佳实践-使用GATK进行基因组分析的“上传数据”部分。
 
-![image.png](attachment:f6a2be95-5e18-40c7-83f9-e381985ababd.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/88aee7b8-78e9-4fb9-bb16-e405dd476e3e)
+
 
 3、选择需要分析的数据，这里以双端测序数据“18C054744”为例。
-![image.png](attachment:0aa8156d-b799-4257-8d0d-cbb20c747266.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/7ebf1386-044a-48fb-bac5-59c62fe97e11)
+
 
 ### 参数填写说明
 #### 输入文件与参数
@@ -91,12 +95,14 @@ NUM_THREAD：申请线程
 ## 结果文件
 
 
-![image.png](attachment:7271a20b-5631-4581-9172-3aa4b02f7838.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/e764448f-2010-4070-ae79-ee9f36be91be)
+
 
 主要关注gvcf文件，该文件记录变异和非变异位置的测序信息。
 
 ### 示例
-![image.png](attachment:f83466e8-99e1-4880-b16f-679886a2b014.png)
+![image](https://github.com/GBA-BI/workspace_WES_germline/assets/50292660/4165dbda-7dce-48ab-aa6f-0603ac63bbb1)
+
 
 
 第一列：染色体 <br>
