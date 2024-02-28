@@ -1,0 +1,13 @@
+{
+  "DNAseq.gvcf": "File",
+  "DNAseq.is_metrics": "File",
+  "DNAseq.aln_metrics": "File",
+  "DNAseq.dedup_metrics": "File",
+  "DNAseq.recaled_bam_index": "File",
+  "DNAseq.qd_metrics": "File",
+  "DNAseq.bqsr_table": "File",
+  "DNAseq.recaled_bam": "File",
+  "DNAseq.gc_summary_metrics": "File",
+  "DNAseq.gc_metrics": "File",
+  "DNAseq.gvcf_index": "File"
+}
